@@ -26,18 +26,15 @@ exports[`Render Content Bucket 3 Slice Slice matches snapshot 1`] = `
               class="css-1nw1nne"
             >
               <div
-                class="css-1sg6411"
+                class="css-uxw9nr"
               >
                 <picture
-                  class="css-zp0elg"
+                  class="css-l4lngz"
                 >
-                  <div
-                    class="css-5pczz7"
-                  />
                   <img
                     alt="Sarcacens an inclusive club? They didnt look out for me"
-                    class="css-1qgqq71"
-                    src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbde50bea-247f-11ee-8c1b-d5d52b458fbd.jpg?crop=3844%2C2563%2C188%2C173"
+                    class="css-ssxt4f"
+                    loading="lazy"
                   />
                 </picture>
               </div>
@@ -157,18 +154,15 @@ exports[`Render Content Bucket 3 Slice Slice matches snapshot 1`] = `
               class="css-1nw1nne"
             >
               <div
-                class="css-1sg6411"
+                class="css-uxw9nr"
               >
                 <picture
-                  class="css-zp0elg"
+                  class="css-l4lngz"
                 >
-                  <div
-                    class="css-5pczz7"
-                  />
                   <img
                     alt="Sarcacens an inclusive club? They didnt look out for me"
-                    class="css-1qgqq71"
-                    src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbde50bea-247f-11ee-8c1b-d5d52b458fbd.jpg?crop=3844%2C2563%2C188%2C173"
+                    class="css-ssxt4f"
+                    loading="lazy"
                   />
                 </picture>
               </div>
@@ -897,18 +891,15 @@ exports[`Render Content Bucket 3 Slice Slice matches snapshot for mobile 1`] = `
               class="css-1nw1nne"
             >
               <div
-                class="css-1sg6411"
+                class="css-uxw9nr"
               >
                 <picture
-                  class="css-zp0elg"
+                  class="css-l4lngz"
                 >
-                  <div
-                    class="css-5pczz7"
-                  />
                   <img
                     alt="Sarcacens an inclusive club? They didnt look out for me"
-                    class="css-1qgqq71"
-                    src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbde50bea-247f-11ee-8c1b-d5d52b458fbd.jpg?crop=3844%2C2563%2C188%2C173"
+                    class="css-ssxt4f"
+                    loading="lazy"
                   />
                 </picture>
               </div>
@@ -1038,18 +1029,15 @@ exports[`Render Content Bucket 3 Slice Slice matches snapshot for mobile 1`] = `
                 />
               </div>
               <div
-                class="css-1sg6411"
+                class="css-uxw9nr"
               >
                 <picture
-                  class="css-zp0elg"
+                  class="css-l4lngz"
                 >
-                  <div
-                    class="css-5pczz7"
-                  />
                   <img
                     alt="Sarcacens an inclusive club? They didnt look out for me"
-                    class="css-1qgqq71"
-                    src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbde50bea-247f-11ee-8c1b-d5d52b458fbd.jpg?crop=3844%2C2563%2C188%2C173"
+                    class="css-ssxt4f"
+                    loading="lazy"
                   />
                 </picture>
               </div>
